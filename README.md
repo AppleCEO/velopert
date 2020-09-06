@@ -9,3 +9,5 @@
 JSX 의 특징 강의를 보면서 작성한 [코드](https://gist.github.com/AppleCEO/1f8b826fec754c2f4aa51a02586e6940)
 
 State [코드](https://gist.github.com/AppleCEO/0dda1a5a4073f153b9e3de04d5fb408e)
+
+컴포넌트 매핑(Component Mapping) [코드](https://gist.github.com/AppleCEO/15f557725056f3598ac851430edd783f)
